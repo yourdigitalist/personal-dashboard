@@ -1,12 +1,13 @@
 Focus radio — live streams
 ==========================
 
-Stations via SomaFM (https://somafm.com):
-- Jazz Café
-- Groove Salad
-- Drone Zone
-- Sonic Universe
+Stations discovered via Radio Browser (https://www.radio-browser.info)
+with curated HTTPS MP3 fallbacks:
 
-Please support SomaFM if you listen often.
-Local CC0 MP3s can still be added under this folder and registered in
-src/music/tracks.ts if you want offline tracks too.
+- REYFM #lofi — https://reyfm.de
+- bigFM LoFi Focus — https://www.bigfm.de
+- SomaFM Groove Salad — https://somafm.com
+- laut.fm lofi — https://laut.fm/lofi
+- ISEKOI Chill Zone — https://isekoi-radio.com
+
+Support the stations you listen to.
