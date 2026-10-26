@@ -1,0 +1,4 @@
+left=31.00
+top=60.00
+width=19.00
+height=26.00

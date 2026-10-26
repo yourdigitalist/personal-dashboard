@@ -1,0 +1,12 @@
+Focus radio — live streams
+==========================
+
+Stations via SomaFM (https://somafm.com):
+- Jazz Café
+- Groove Salad
+- Drone Zone
+- Sonic Universe
+
+Please support SomaFM if you listen often.
+Local CC0 MP3s can still be added under this folder and registered in
+src/music/tracks.ts if you want offline tracks too.
